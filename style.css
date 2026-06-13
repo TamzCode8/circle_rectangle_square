@@ -1,0 +1,19 @@
+body{
+    background-color: #19d1f1;
+}
+.Square{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+.Circle{
+   width: 200px;
+   height: 200px;
+   background-color: red;
+   border-radius: 100%;
+}
+.Rectangle{
+    width: 400px;
+    height: 200px;
+    background-color: limegreen;
+}
